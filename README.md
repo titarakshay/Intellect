@@ -1,16 +1,17 @@
-# PINKVILLA (FullStack Application)
+# BookMyTable (Reservation System)
 
-### Pinkvilla is an Entertainment application in which user are able view Latest Entertainment News,Gossips From Bollywood, Hollywood, Korean.
+### BookMyTable : It is an server-side restaurant table booking application.
 
 --------------------------------
 **Tech Stack**
 
 - NodeJs/Express
-- Vanilla Javascript
-- HTML/CSS/Bootstrap
+- MongoDB Atlas
+- Mongoose Schema Model
 -----------------------------------
 **Summery**
-*In this application we are fetching data from api using Nodejs/Js and rendering to HTML file.
-We have also use infinte scrolling with vanilla Javascript for better User experience*
+*In this application you can make reservation of table at particular time slot.
+* You can view all reserved time slot
+* You can also cancel your reservation
 
 
