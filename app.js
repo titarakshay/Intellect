@@ -4,7 +4,11 @@ var express=require("express");
 var mongoose=require("mongoose")
 // require routerfile
 var indexRouter=require("./routes/index");
-const dbConnection=`mongodb+srv://akshaytitar:BulletAt19@cluster0.1ewh1.mongodb.net/?retryWrites=true&w=majority`
+
+
+//dot env
+require("dotenv").config();
+const dbConnection=process.env.dbConnection
 mongoose.connect(
     dbConnection,
     {
