@@ -22,14 +22,12 @@ var sessionSchema = new Schema(
                     title: {
                         type: String,
                         required: true,
-                        unique: true
                     },
 
                     options: [
                         {
                             title: {
                                 type: String,
-                                unique: true
                             }, isCorrect: Boolean
                         },
                     ]

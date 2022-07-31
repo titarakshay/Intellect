@@ -1,0 +1,123 @@
+{
+    "_id": "62e6c1bf7c4a67071851845d",
+    "title": "Mental-Health",
+    "sections": {
+        "content": [
+            {
+                "pages": 1,
+                "_id": "62e6c1bf7c4a67071851845e",
+                "description": "Have a routine.Keep up with daily routines as far as possible, or make new ones."
+            },
+            {
+                "pages": 2,
+                "_id": "62e6c1bf7c4a67071851845f",
+                "description": "Get up and go to bed at similar times every day."
+            },
+            {
+                "pages": 3,
+                "_id": "62e6c1bf7c4a670718518460",
+                "description": "Eat healthy meals at regular times.Exercise regularly"
+            },
+            {
+                "pages": 4,
+                "_id": "62e6c1bf7c4a670718518461",
+                "description": "Allocate time for working and time for resting."
+            },
+            {
+                "pages": 5,
+                "_id": "62e6c1bf7c4a670718518462",
+                "description": "Make time for doing things you enjoy."
+            }
+        ],
+        "quetions": [
+            {
+                "pages": 1,
+                "_id": "62e6c1bf7c4a670718518463",
+                "title": "Mental illnesses are only hereditary, you cannot develop them on your own. True or false?",
+                "options": [
+                    {
+                        "_id": "62e6c1bf7c4a670718518464",
+                        "title": "Yes",
+                        "isCorrect": false
+                    },
+                    {
+                        "_id": "62e6c1bf7c4a670718518465",
+                        "title": "No",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "pages": 2,
+                "_id": "62e6c1bf7c4a670718518466",
+                "title": "Which one of these can be a common sign of mental health issues?",
+                "options": [
+                    {
+                        "_id": "62e6c1bf7c4a670718518467",
+                        "title": "Problems Concentrating",
+                        "isCorrect": true
+                    },
+                    {
+                        "_id": "62e6c1bf7c4a670718518468",
+                        "title": "Healthy Eating Habits",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "pages": 3,
+                "_id": "62e6c1bf7c4a670718518469",
+                "title": "Which one of these conditions can lead to (or show existing) mental health conditions?",
+                "options": [
+                    {
+                        "_id": "62e6c1bf7c4a67071851846a",
+                        "title": "Irregular Periods",
+                        "isCorrect": false
+                    },
+                    {
+                        "_id": "62e6c1bf7c4a67071851846b",
+                        "title": "Sleep Disorders",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "pages": 4,
+                "_id": "62e6c1bf7c4a67071851846c",
+                "title": "Which of these is a leading cause of disability in the world?",
+                "options": [
+                    {
+                        "_id": "62e6c1bf7c4a67071851846d",
+                        "title": "Anger Management Issues",
+                        "isCorrect": false
+                    },
+                    {
+                        "_id": "62e6c1bf7c4a67071851846e",
+                        "title": "Depression",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "pages": 5,
+                "_id": "62e6c1bf7c4a67071851846f",
+                "title": "Is anger a usual response when a person is grieving?",
+                "options": [
+                    {
+                        "_id": "62e6c1bf7c4a670718518470",
+                        "title": "Yes, it is common and expected.",
+                        "isCorrect": true
+                    },
+                    {
+                        "_id": "62e6c1bf7c4a670718518471",
+                        "title": "No, anger is an unusual response.",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    "createdAt": "2022-07-31T17:54:07.339Z",
+    "updatedAt": "2022-07-31T17:54:07.339Z",
+    "__v": 0
+}

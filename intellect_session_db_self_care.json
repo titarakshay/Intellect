@@ -1,0 +1,123 @@
+{
+    "_id": "62e6c191dd5a5619344c0e73",
+    "title": "SELF-CARE",
+    "sections": {
+        "content": [
+            {
+                "pages": 1,
+                "_id": "62e6c191dd5a5619344c0e74",
+                "description": "Self-care describes and covers the deliberate things you do for the benefit of your mental, physical and emotional wellbeing"
+            },
+            {
+                "pages": 2,
+                "_id": "62e6c191dd5a5619344c0e75",
+                "description": "This will look different for everybody, but ensuring a well-balanced, healthy lifestyle is going to help. Crucially, “self-care isn’t about being selfish,"
+            },
+            {
+                "pages": 3,
+                "_id": "62e6c191dd5a5619344c0e76",
+                "description": "Practising self-care can help you manage stress and anxiety and increase energy, and a general sense of wellbeing."
+            },
+            {
+                "pages": 4,
+                "_id": "62e6c191dd5a5619344c0e77",
+                "description": "Being in nature has huge benefits for our wellbeing; from reducing stress and anxiety to easing muscle tension and reducing blood pressure as we relax"
+            },
+            {
+                "pages": 5,
+                "_id": "62e6c191dd5a5619344c0e78",
+                "description": "Gardening is well-known for being beneficial for our mental and physical health.Gardening can also contribute to non-exercise activity thermogenesis, or NEAT, meaning activities that utilise energy which aren’t specifically exercise."
+            }
+        ],
+        "quetions": [
+            {
+                "pages": 1,
+                "_id": "62e6c191dd5a5619344c0e79",
+                "title": "Getting a healthy tan is a good way to avoid skin cancer — true or false?",
+                "options": [
+                    {
+                        "_id": "62e6c191dd5a5619344c0e7a",
+                        "title": "Yes",
+                        "isCorrect": false
+                    },
+                    {
+                        "_id": "62e6c191dd5a5619344c0e7b",
+                        "title": "No",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "pages": 2,
+                "_id": "62e6c191dd5a5619344c0e7c",
+                "title": "I take time for myself every day even if it’s only 15 minutes.",
+                "options": [
+                    {
+                        "_id": "62e6c191dd5a5619344c0e7d",
+                        "title": "Agree",
+                        "isCorrect": true
+                    },
+                    {
+                        "_id": "62e6c191dd5a5619344c0e7e",
+                        "title": "Disagree",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "pages": 3,
+                "_id": "62e6c191dd5a5619344c0e7f",
+                "title": "I drink adequate amounts of water each day",
+                "options": [
+                    {
+                        "_id": "62e6c191dd5a5619344c0e80",
+                        "title": "Agree",
+                        "isCorrect": true
+                    },
+                    {
+                        "_id": "62e6c191dd5a5619344c0e81",
+                        "title": "Disagree",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "pages": 4,
+                "_id": "62e6c191dd5a5619344c0e82",
+                "title": "I get more than 6 hours of sleep each night",
+                "options": [
+                    {
+                        "_id": "62e6c191dd5a5619344c0e83",
+                        "title": "Agree",
+                        "isCorrect": true
+                    },
+                    {
+                        "_id": "62e6c191dd5a5619344c0e84",
+                        "title": "Disagree",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "pages": 5,
+                "_id": "62e6c191dd5a5619344c0e85",
+                "title": "When I feel exhausted or unwell I give myself time out and allow myself to do less",
+                "options": [
+                    {
+                        "_id": "62e6c191dd5a5619344c0e86",
+                        "title": "Agree",
+                        "isCorrect": true
+                    },
+                    {
+                        "_id": "62e6c191dd5a5619344c0e87",
+                        "title": "Disagree",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    "createdAt": "2022-07-31T17:53:21.164Z",
+    "updatedAt": "2022-07-31T17:53:21.164Z",
+    "__v": 0
+}
