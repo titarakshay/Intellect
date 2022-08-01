@@ -32,10 +32,6 @@ router.post("/",async(req,res,next)=>{
 })
 router.get("/",async(req,res,next)=>{
     let reservations=await reservation.find()
-    // let reservationsData=reservations.map(val=>{
-    //     val.dateTime=new Date(val.dateTime).toLocaleDateString() +" "+new Date(val.dateTime).toLocaleTimeString()
-    //     return val
-    // })
     res.status(201).json(reservations)
 
 })
